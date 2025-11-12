@@ -1,5 +1,5 @@
 # Process
-Advanced stats and team record of each player was joined using MySQL and several models were then tested (Logistic Regression, SVM, Random Forest, XGBoost, etc) on accuracy and F1 score. Random Forest Classifier was the highest scoring model but this is because I chose to not go in depth with hyperparameter tuning.
+Advanced stats and team record of each player was joined using MySQL and several models were then tested (Logistic Regression, SVM, Random Forest, XGBoost, etc) on accuracy and F1 score. Random Forest Classifier was the highest scoring model (95% accuracy) but this is because I chose to not go in depth with hyperparameter tuning.
 
 # What statistics determines if a player wins MVP?
 By taking a look at the most important features needed to predict whether or not a player is MVP, it is clear that advanced stats (VORP, PER, WS48) that measure more than just PPG are big indicators of determining an MVP.
