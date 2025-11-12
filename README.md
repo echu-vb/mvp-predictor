@@ -4,4 +4,4 @@ However, within the top 5 most important features we can see that Win% plays a v
 MVP winners are heavily determined by how succesful their team is in the regular season. In cases where a player had better stats but wasn't on a winning team (i.e. Jokic VS Shai) it is up for debate whether or not MVP winners should rely so much on Win%.
 
 # Applications of Model
-Model will be tested in the 2026 MVP vote to determine performance. If accurate, the model has the possibility of winning majority of bets due to relying purely on statistics and without human emotion.
+Model will be tested in the 2026 MVP vote to determine performance. If accurate, the model has the possibility of winning majority of bets due to relying purely on statistics and without human emotion. Test the accuracy of the model here: https://new-mvp-predictor.streamlit.app/
